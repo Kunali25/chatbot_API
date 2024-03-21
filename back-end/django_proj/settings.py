@@ -128,7 +128,7 @@ import os
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 # Define the ChatGPT API key
-OPENAI_API_KEY = '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'
+OPENAI_API_KEY = 'USE_YOUR_APIKEY'
 
 # Fetch the API key from the environment variable if available
 
